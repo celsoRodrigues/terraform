@@ -1,0 +1,3 @@
+variable "pkey" {
+  type = string
+}
