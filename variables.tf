@@ -1,3 +1,0 @@
-variable "pkey" {
-  type = string
-}
