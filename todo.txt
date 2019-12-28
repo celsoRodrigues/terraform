@@ -1,0 +1,2 @@
+autoscaling policy
+lifecyclehooks
